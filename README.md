@@ -3,7 +3,7 @@
 
  <h3>Durante a criação da cena pensamos em criar um cenario de terror no estilo de Silent Hill, iniciando pelo nosso objeto plano para ser nosso chão o modificamos botando uma textura,
 dessa forma seguimos para a UnityAssets e pegamos alguns assets: árvores,Uma Igreja e algumas casas e uma personagem, algumas dessas árvores foram postas na cena para criar nosso cenario de terror em uma floresta com algumas casas e uma pequena igreja. Para o jogo precisavamos de um personagem então voltamos à procurar assets e encontramos uma personagem que nós anexamos a Lara Croft.
-
+<br>
   
  Nós adicionamos um script na camera para permitir que o jogador possa movimenta-la em todos eixos, e adicionamos um script de movimentação a personagem, tivemos algumas falhas durante o precesso pois um de nós havia progamado um script de movimentação 2d e também adicionamos o game object Particles-System que modficamos para criar a neblina utilizando o Fog.
 
@@ -11,6 +11,9 @@ dessa forma seguimos para a UnityAssets e pegamos alguns assets: árvores,Uma Ig
 
  <H2>Link do Game do Unity:</H2>
  https://drive.google.com/drive/folders/18eiQaMzWPY6cxUZ-pazevXO6AQ6Qg799?usp=drive_link
+
+ <br>
+ <br>
 
  Algumas fotos do jogo: 
  <br>
