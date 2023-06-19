@@ -1,5 +1,5 @@
 # Cena-Unity
-<h2>Trabalho de DJW Para criar um cena no Unity</h2>
+<h2>Trabalho de DJW Para criar umA cena no Unity</h2>
 
  <h3>Durante a criação da cena pensamos em criar um cenario de terror no estilo de Silent Hill, iniciando pelo nosso objeto plano para ser nosso chão o modificamos botando uma textura,
 dessa forma seguimos para a UnityAssets e pegamos alguns assets: árvores,Uma Igreja e algumas casas e uma personagem, algumas dessas árvores foram postas na cena para criar nosso cenario de terror em uma floresta com algumas casas e uma pequena igreja. Para o jogo precisavamos de um personagem então voltamos à procurar assets e encontramos um asset de uma personagem que parece muito com a Barbie.</h3>
